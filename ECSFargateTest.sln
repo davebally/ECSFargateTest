@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECSFargateTest", "ECSFargateTest.csproj", "{6CD8369B-8531-4712-A8C6-128E48C30E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD8369B-8531-4712-A8C6-128E48C30E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD8369B-8531-4712-A8C6-128E48C30E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD8369B-8531-4712-A8C6-128E48C30E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD8369B-8531-4712-A8C6-128E48C30E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6B0513-E7DB-4376-9E5B-7AC57737F140}
+	EndGlobalSection
+EndGlobal

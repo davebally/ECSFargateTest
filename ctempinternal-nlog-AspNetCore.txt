@@ -1,0 +1,72 @@
+2022-11-29 08:46:10.7979 Info Message Template Auto Format enabled
+2022-11-29 08:46:10.8191 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 08:46:10.8647 Info Registered target FileTarget(Name=allfile)
+2022-11-29 08:46:10.8647 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 08:46:10.8705 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 08:46:10.8934 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 08:46:11.7788 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 08:46:11.7951 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 08:50:22.6595 Info Message Template Auto Format enabled
+2022-11-29 08:50:22.6720 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 08:50:22.7106 Info Registered target FileTarget(Name=allfile)
+2022-11-29 08:50:22.7140 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 08:50:22.7140 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 08:50:22.7369 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 08:50:23.2617 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 08:50:23.2725 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 08:52:35.1973 Info Message Template Auto Format enabled
+2022-11-29 08:52:35.2120 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 08:52:35.2536 Info Registered target FileTarget(Name=allfile)
+2022-11-29 08:52:35.2536 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 08:52:35.2536 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 08:52:35.2798 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 08:52:35.7731 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 08:52:35.7839 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 09:06:32.7355 Info Message Template Auto Format enabled
+2022-11-29 09:06:32.7521 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 09:06:32.8031 Info Registered target FileTarget(Name=allfile)
+2022-11-29 09:06:32.8067 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 09:06:32.8067 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 09:06:32.8362 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:06:33.5150 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:06:33.5329 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 09:29:35.6444 Info Message Template Auto Format enabled
+2022-11-29 09:29:35.6550 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 09:29:35.7022 Info Registered target FileTarget(Name=allfile)
+2022-11-29 09:29:35.7053 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 09:29:35.7053 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 09:29:35.7417 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:29:36.3717 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:29:36.3848 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 09:31:19.3211 Info Message Template Auto Format enabled
+2022-11-29 09:31:19.3324 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 09:31:19.3802 Info Registered target FileTarget(Name=allfile)
+2022-11-29 09:31:19.3802 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 09:31:19.3845 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 09:31:19.4085 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:31:20.0163 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:31:20.0309 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 09:33:16.9562 Info Message Template Auto Format enabled
+2022-11-29 09:33:16.9689 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 09:33:17.0258 Info Registered target FileTarget(Name=allfile)
+2022-11-29 09:33:17.0258 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 09:33:17.0258 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 09:33:17.0613 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:33:17.8085 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:33:17.8221 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 09:39:10.6279 Info Message Template Auto Format enabled
+2022-11-29 09:39:10.6372 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 09:39:10.6874 Info Registered target FileTarget(Name=allfile)
+2022-11-29 09:39:10.6874 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 09:39:10.6925 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 09:39:10.7168 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:39:11.3696 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:39:11.3831 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
+2022-11-29 09:42:27.6896 Info Message Template Auto Format enabled
+2022-11-29 09:42:27.6998 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-29 09:42:27.7544 Info Registered target FileTarget(Name=allfile)
+2022-11-29 09:42:27.7544 Info Registered target FileTarget(Name=ownFile-web)
+2022-11-29 09:42:27.7544 Info Registered target ConsoleTarget(Name=lifetimeConsole)
+2022-11-29 09:42:27.8002 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:42:28.5364 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=57, FilePath=/app/bin/Debug/net5.0/NLog.config
+2022-11-29 09:42:28.5492 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: ConsoleTarget(Name=lifetimeConsole). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Debug has been skipped.
